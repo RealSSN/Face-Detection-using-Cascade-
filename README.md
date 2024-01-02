@@ -26,8 +26,9 @@ Make sure to install the required libraries by running:
 
 ### Use the face function by importing it into your script or running it in an interactive Python environment:
 
-`from face_detection import face
-image_path = 'path/to/your/image.jpg'
+`from face_detection import face`
+
+`image_path = 'path/to/your/image.jpg'
 face(image_path)`
 
 Ensure that you replace 'path/to/your/image.jpg' with the actual path to your image file.
